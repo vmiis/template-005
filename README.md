@@ -1,8 +1,4 @@
-# Template 005
+# template-005 (Car booking)
 
-Bootstrap theme and business portal function examples  
-https://vmiis.github.io/template-005/index.html
-
-
-The CSS theme of this template is based on the following w3 CSS template  
-https://www.w3schools.com/bootstrap/trybs_theme_me_complete.htm
+Application template with Bootstrap 4 responsive style and database driven modules
+Live demo: https://vmiis.github.io/template-005/
